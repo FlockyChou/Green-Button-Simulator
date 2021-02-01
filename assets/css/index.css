@@ -7,6 +7,9 @@
 }
 
 #green-button {
+    max-width: 547px;
+    max-height: 159px;
+    padding: 0;
     background: transparent;    
     border: 0;
     position: relative;
@@ -24,6 +27,7 @@
     width: 100%;
     height: 100%;
     background-image: url('/assets/img/revive-dark.png');
+    background-size: cover;
     background-position: center top;
     background-repeat: no-repeat;
     opacity: 50%;
